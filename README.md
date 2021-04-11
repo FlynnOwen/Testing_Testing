@@ -1,4 +1,4 @@
-[![pytest](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons) 
+
 
 <h1 align="center">Repository for playing around with unit and integration testing</h1>
 
