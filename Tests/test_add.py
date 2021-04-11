@@ -1,7 +1,4 @@
 import pytest
-import sys
-sys.path.append('.')
-
 from src.add import add
 
 print('success')
