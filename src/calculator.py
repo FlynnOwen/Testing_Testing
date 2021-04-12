@@ -15,3 +15,6 @@ class Calculator():
 
     def divide(self,x,y):
         return(x/y)
+
+    def seven_method(self):
+        self.seven = 7

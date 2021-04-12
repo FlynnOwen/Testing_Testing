@@ -24,3 +24,11 @@ class TestCalculator():
         
         output = self.calculator.divide(4,2)
         assert output == 2
+
+    def test_seven_method(self):
+        self.calculator.seven_method()
+        assert self.calculator.seven == 7
+
+    def test_battery(self):
+        assert self.calculator.battery == 100
+        
