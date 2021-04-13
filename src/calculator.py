@@ -1,17 +1,33 @@
-
 class Calculator():
-    def __init__(self,brand):
-        self.brand = brand
-        self.battery = 100
+    @classmethod
+    def __init__(cls,brand):
+        cls.brand = brand
+        cls.battery = 100
 
-    def add(self,x,y):
+    @staticmethod
+    def add(x,y):
         return(x + y)
 
-    def subtract(self,x,y):
+    @staticmethod
+    def subtract(x,y):
         return(x - y)
 
-    def multiply(self,x,y):
+    @classmethod
+    def multiply(cls,x,y):
+        cls.battery -= 10
         return(x * y)
 
-    def divide(self,x,y):
+    @classmethod
+    def divide(cls,x,y):
+        cls.battery -= 10
         return(x/y)
+
+    @classmethod
+    def print_brand(cls):
+        cls.battery -= 10
+        return(cls.brand)
+
+    @classmethod
+    def battery_level(cls):
+        cls.battery -= 10
+        return(cls.battery)

@@ -19,8 +19,10 @@ class TestCalculator():
         
         output = self.calculator.multiply(3,4)
         assert output == 12
+        assert self.calculator.battery == 90
     
     def test_divide(self):
         
         output = self.calculator.divide(4,2)
         assert output == 2
+        assert self.calculator.battery == 90

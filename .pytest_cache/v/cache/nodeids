@@ -1,8 +1,17 @@
 [
   "Tests/test_add.py::test_add",
   "Tests/test_calculator.py::TestCalculator::()::test_add",
-  "Tests/test_calculator.py::TestCalculator::()::test_subtract",
-  "Tests/test_calculator.py::TestCalculator::()::test_multiply",
   "Tests/test_calculator.py::TestCalculator::()::test_divide",
+  "Tests/test_calculator.py::TestCalculator::()::test_multiply",
+  "Tests/test_calculator.py::TestCalculator::()::test_subtract",
+  "Tests/test_calculator.py::TestCalculator::test_add",
+  "Tests/test_calculator.py::TestCalculator::test_divide",
+  "Tests/test_calculator.py::TestCalculator::test_multiply",
+  "Tests/test_calculator.py::TestCalculator::test_subtract",
+  "Tests/test_computer.py::TestComputer::test_add",
+  "Tests/test_computer.py::TestComputer::test_divide",
+  "Tests/test_computer.py::TestComputer::test_multiply",
+  "Tests/test_computer.py::TestComputer::test_run_code",
+  "Tests/test_computer.py::TestComputer::test_subtract",
   "dev/first_test.py::test_func"
 ]
