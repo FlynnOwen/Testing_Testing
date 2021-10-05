@@ -1,4 +1,4 @@
-class Calculator():
+class Calculator:
     @classmethod
     def __init__(cls,brand):
         cls.brand = brand
