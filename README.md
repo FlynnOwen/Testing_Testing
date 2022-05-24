@@ -1,4 +1,4 @@
-<h1 align="center">[![Test Suite](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml/badge.svg)](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml)</h1>
+[![Test Suite](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml/badge.svg)](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml)
 
 <h1 align="center">Repository for playing around with unit and integration testing</h1>
 
