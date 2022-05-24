@@ -1,6 +1,5 @@
-![example workflow](https://github.com/FlynnOwen/testing-pytest/actions/workflows/python-app.yml/badge.svg)
-
 <h1 align="center">Repository for playing around with unit and integration testing</h1>
+![example workflow](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml/badge.svg)
 
 ## Currently I am using third party module pytest as opposed to the standard library's unittest module. 
 
