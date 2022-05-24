@@ -1,5 +1,5 @@
 <h1 align="center">Repository for playing around with unit and integration testing</h1>
-[![Test Suite](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml/badge.svg)](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml)
+![Test Suite](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml/badge.svg)](https://github.com/FlynnOwen/testing-pytest/actions/workflows/test-suite.yml)
 
 ## Currently I am using third party module pytest as opposed to the standard library's unittest module. 
 
